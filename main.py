@@ -30,3 +30,27 @@ print(bananas)
 # bananas = bananas - 3 # same below code
 bananas -= 3;
 print(bananas)
+
+
+#true and false check get result
+#check type of variable
+
+isCheck = True
+print(type(isCheck)) # result bool
+
+iphoneX = 1000
+vivoV5 = 700
+
+print(iphoneX < vivoV5) # result False
+print(iphoneX > vivoV5) # result True
+
+print(not (iphoneX > vivoV5))  # not convert into false value actual value is true and it converted into false
+# same as php operator (or  and)
+
+
+
+
+
+
+
+
