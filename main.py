@@ -17,3 +17,16 @@ print((25*25) / (5*5))
 total_student = 500
 number_of_students_ordered_chicken = 85/100 * total_student
 print("Ordered chicken ", number_of_students_ordered_chicken)
+
+
+# reasign value
+
+bananas = 4
+print(bananas)
+# bananas = bananas +2 # same below code
+bananas += 2
+print(bananas)
+
+# bananas = bananas - 3 # same below code
+bananas -= 3;
+print(bananas)
